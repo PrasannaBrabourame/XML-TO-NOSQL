@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+	<item typ="SC" code="TL-01" position="1" title="Theologie Allgemeines – Theology General"/>
+	<item typ="SC" code="CL-01" position="2" title="Alter Orient/Antike – Ancient Near East/Classical Antiquitiy"/>
+	<item typ="SC" code="CL-01-01-01" position="2" title="Alter Orient/Antike – Ancient Near East/Classical Antiquitiy"/>
+	<item typ="SC" code="CL-01-01-02" position="2" title="Alter Orient/Antike – Ancient Near East/Classical Antiquitiy"/>
+	<item typ="SC" code="CL-02" position="2" title="Alter Orient/Antike – Ancient Near East/Classical Antiquitiy"/>
+	<item typ="SC" code="CL-04" position="2" title="Alter Orient/Antike – Ancient Near East/Classical Antiquitiy"/>
+	<item typ="SC" code="HI-01-03" position="2" title="Alter Orient/Antike – Ancient Near East/Classical Antiquitiy"/>
+	<item typ="SC" code="LT-09" position="2" title="Alter Orient/Antike – Ancient Near East/Classical Antiquitiy"/>
+	<item typ="SC" code="TL-02" position="3" title="Altes Testament/Deuterokanonische Schriften – Old Testament/Deuterocanonical Literature"/>
+	<item typ="SC" code="TL-03" position="4" title="Neues Testament – New Testament"/>
+	<item typ="AD" code="relative" value="ManBib.pdf"/>
+	<item typ="SC" code="TL-04" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="CL-01-10" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="CL-03" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="TL-05" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="LS-13-04" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="HI-01-05" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="LT-04-01" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="LT-13-03" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="LT-04-02" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="LT-08-02" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="TL-06" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="HI-01-06" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="TL-07" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="LT-04-03" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="HI-03-15" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="TL-08" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="SC" code="PL-11" position="5" title="Kirchengeschichte – Church history"/>
+	<item typ="AD" code="relative" value="Schleiermacher.pdf"/>
+	<item typ="SC" code="TL-09-02" position="6" title="Systematische Theologie und Religionsphilosophie – Systematic Theology and Philosophy of Religion"/>
+	<item typ="SC" code="TL-09" position="6" title="Systematische Theologie und Religionsphilosophie – Systematic Theology and Philosophy of Religion"/>
+	<item typ="SC" code="PL-01-03" position="6" title="Systematische Theologie und Religionsphilosophie – Systematic Theology and Philosophy of Religion"/>
+	<item typ="SC" code="PL-02" position="6" title="Systematische Theologie und Religionsphilosophie – Systematic Theology and Philosophy of Religion"/>
+	<item typ="SC" code="LT-04-04" position="6" title="Systematische Theologie und Religionsphilosophie – Systematic Theology and Philosophy of Religion"/>
+	<item typ="SC" code="LT-06-02-05" position="6" title="Systematische Theologie und Religionsphilosophie – Systematic Theology and Philosophy of Religion"/>
+	<item typ="SC" code="TL-10" position="6" title="Systematische Theologie und Religionsphilosophie – Systematic Theology and Philosophy of Religion"/>
+	<item typ="SC" code="LA-01" position="6" title="Systematische Theologie und Religionsphilosophie – Systematic Theology and Philosophy of Religion"/>
+	<item typ="SC" code="TL-11" position="7" title="Praktische Theologie – Practical Theology"/>
+	<item typ="AD" code="relative" value="MCAS.pdf"/>
+	<item typ="SC" code="TL-14" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="TL-02-05-04" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="CS-04-07" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="JS-01-01" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="JS-01-03" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="HI-03-02-06" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="LT-05-01" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="JS-03-01" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="JS-01-05" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="JS-02-04" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="JS-02-05" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="JS-01-06" position="8" title="Judaistik – Jewish Studies"/>
+	<item typ="SC" code="TL-16-01" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="CL-01-03" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="CL-01-11" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="TL-16-04" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="TL-16-03" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="HI-02-07" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="HI-03-14" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="AR-01" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="TL-16-08" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="HI-01-09-03" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="TL-16-06" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="SN-02-05" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="TL-15-08" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="CL-01-03" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="CL-01-11" position="9" title="Islamwissenschaft – Islamic Studies"/>
+	<item typ="SC" code="TL-15" position="10" title="Religionswissenschaft – Religious Studies"/>
+	<item typ="SC" code="TL-12" position="10" title="Religionswissenschaft – Religious Studies"/>
+	<item typ="SC" code="JOURNAL-YB" position="11" title="Zeitschriften und Jahrbücher – Journals and Yearbooks"/>
+	<item typ="SC" code="DATABASE" position="12" title="Datenbanken – Databases"/>
+	<item typ="AD" code="relative" value="Studienbuecher.pdf"/>
+</data>
